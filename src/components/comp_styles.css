@@ -1,0 +1,15 @@
+.dropzone{
+    background-color: #f7f7f7;
+    text-align: center;
+    align-items: center;
+    color:#7b838f;
+    border-radius: 35px;
+    border: 2px aqua solid;
+}
+
+.cont{
+    width: 100%;
+    align-items: center;
+    min-height: 50vh;
+    text-align: center;
+}
